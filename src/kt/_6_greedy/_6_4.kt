@@ -1,8 +1,8 @@
-package _6_greedy
+package kt._6_greedy
 
 import java.util.*
 
-fun main(args: Array<String>) {
+fun main() {
     val scanner = Scanner(System.`in`)
     val d = scanner.nextInt()
     val m = scanner.nextInt()

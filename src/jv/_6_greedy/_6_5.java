@@ -1,4 +1,4 @@
-package _6_greedy;
+package jv._6_greedy;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 
 class _6_5 {
 
-  public static void main(String args[]) {
+  public static void main(String... args) {
     var scanner = new Scanner(System.in);
     var n = scanner.nextInt();
     var a = IntStream.range(0, n).map(i -> scanner.nextInt()).toArray();
