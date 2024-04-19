@@ -1,10 +1,10 @@
-
+package _6_greedy;
 
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-class Main_6_5 {
+class _6_5 {
 
   public static void main(String args[]) {
     var scanner = new Scanner(System.in);
